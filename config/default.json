@@ -1,0 +1,6 @@
+{
+	"mongoURL": "mongodb+srv://database-user:28J464@8512y@cluster0.2xpdv.mongodb.net/nerds_together?retryWrites=true&w=majority",
+	"jwtSecret": "Hello World!",
+	"gmailPassword": "28J464@8512y",
+	"tinifyKey": "z5MRzw0f3Qf0g9C5q8RnqQj4GcSyBN83"
+}
