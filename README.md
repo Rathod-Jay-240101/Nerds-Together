@@ -2,7 +2,7 @@
 
 #
 ## Link :
-### www.nerds-together.ml
+### https://www.nerds-together.ml
 
 #
 ## Screenshots
