@@ -4,6 +4,9 @@
 ## Link :
 ### https://www.nerds-together.ml
 
+## Preview
+https://user-images.githubusercontent.com/59601482/134764487-1f1d1a18-e60a-4b33-96b1-7897921c700c.mp4
+
 #
 ## Screenshots
 ![1](https://user-images.githubusercontent.com/59601482/127771180-feefefd0-c5c2-44e7-a2d2-88377430546b.jpg)
